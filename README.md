@@ -32,4 +32,4 @@ Cinnamon is a popular desktop environment developed by the Linux Mint team. It o
 
 ## Conclusion
 Cinnamon is designed to provide a comfortable and consistent user experience, especially for those transitioning from other operating systems. Its blend of simplicity, stability, and customization makes it one of the most popular desktop environments in the Linux world.
-[cinnamon](https://github.com/webbrowser11/cinnamon/blob/main/cinnamon.txt)
+[cinnamon](https://webbrowser11.github.io/backend/cinnamon.txt)
